@@ -1,0 +1,95 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.style1 {
+	color: #464646;
+	font-size: 11px;
+	font-family: tahoma;
+	text-decoration:none
+	a:link {
+        color: #0000cc; font-weight: bold; text-decoration: none; }
+        a:visited {
+
+        color: #990099; font-weight: bold; text-decoration: none; }
+        a:active {
+        color: #ff9900; font-weight: bold; text-decoration: none; }
+        a:hover {
+        color: #3333ff; text-decoration: underline; }
+        u {
+
+        color: #ff0000; text-decoration: none;
+        }
+}
+.style2 {
+	color: #304968;
+	font-size: 11px;
+	font-family: tahoma;
+	font-weight: bold;
+	text-transform:uppercase; 
+	text-decoration:none
+}
+.style3 {
+	color: #555555;
+	font-size: 11px;
+	font-family: tahoma;
+}
+.style4 {
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: tahoma;
+	font-weight: bold;
+	text-transform:uppercase;
+}
+.style5 {
+	color: #363636;
+	font-size: 11px;
+	font-family: tahoma;
+}
+.style6 {
+	color: #0054A6;
+	font-size: 11px;
+	font-family: tahoma;
+	font-weight: bold;
+	text-transform:uppercase;
+}
+.style7 {
+	color: #555555;
+	font-size: 11px;
+	font-family: tahoma;
+	font-weight: bold;
+	text-transform:uppercase;
+}
+.style8 {
+	color: #0054a6;
+	font-size: 10px;
+	font-family: tahoma;
+	font-weight: bold;
+}
+.style9 {
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: tahoma;
+}
+.style10 {
+	color: #304968;
+	font-size: 11px;
+	font-family: tahoma;
+}
+.style11 {
+	color: #FFFFFF;
+	font-size: 10px;
+	font-family: tahoma;
+	font-weight: bold;
+}
+.style12 {
+	color: #0054A6;
+	font-size: 11px;
+	font-family: tahoma;
+}
+.style14 {	color: #7D7D7D;
+	font-size: 11px;
+	font-family: tahoma;
+}

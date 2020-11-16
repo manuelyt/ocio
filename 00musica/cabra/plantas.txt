@@ -1,0 +1,109 @@
+//-----------------------------------------------------------------
+// Siueno, aquí está mi versión de cómo toca este temilla genial 
+// la Doabra en el "Ni Jaulas ni Peceras".
+// Para que suene como en el disco teneis que tocarlo con los dedos
+// para darle ese rollito bossanova / jazz.
+//
+// No creo que sea perfecta, pero mi oido no da pa más. ;)
+// Si la mejoras por favor envíamela (pepitogrillo669_arroba_yahoo.es).
+// (Obviamente, substituye _arroba_ por @).
+//
+//
+// Tab por: Vic (Louvain-la-Neuve (Siélgica), abril de 2004).
+//-----------------------------------------------------------------
+
+   La7M: x02120
+   Sol7M: 3x556x
+  Re5/La: 5x77xx
+   Re7M: 557675
+   Rem7: 557565
+ Mim7/Sol: 322030
+La7sus4: x02030
+    La7: x02020
+    Mim: 022000
+  Do#m7: x46454
+  Sib7M: 113231
+   Sim7: 224232
+
+
+
+Intro:                                                           [LaM7   Mim   Mim7/Sol] x3  La7sus4 La7 La7sus4 La7                 
+La7M   Mim   Mim7/Sol x4                                                                                                             
+                                                                 Mistribillo 2:                                                      
+Mistrofa 1:                                                                                                                          
+                                                                         Re7M               Re7m                                     
+La7M              Mim                     La7M                   Y así drogado, calentito, transportado, aprecié a mi lado           
+Ya amanecí de cerebro solito y empalmao.                            Do#m7                     Sim7                                   
+La7                        ReM7                                  la vida sencilla de las margaritas, del descampado aledaño          
+Me vestí rápido no tenía prisa                                   La7M                         Mim                                    
+                  Do#m7                                          Y escuché, la suave canción de las plantas,                         
+por atender las llamadas del cartero comercial,                   La7                                                                
+       Sim7                                                      que sólo necesitan del Sol y del agua                               
+tomarme un cafecito con los testigos de Jehová                   Sim7                                      Sib7M (arpegiado)         
+    Sib7M             La7M                                       Metí de una vez los pies en el tiesto                               
+y explorar mi aparato genital.                                                                                Sib7M (arpegiado)      
+                                                                 Perdida mi esencia animal, quise ser vegetal,                       
+                                                                                     La7M                                            
+Puente 1:                                                        Vegetal pa los restos.                                              
+La7M           Mim                          La7                                                                                      Re7M 
+Sedado por el paro, dejé de estar preocupado por la crisis mundial
+              Do#m7
+Y entre comerme una pastilla o dispararme, mecaguenla,
+Sim7                      La7M
+y arrasar con todo bicho viviente 
+SibM7                  LaM7            La7sus4 La7 La7sus4 La7
+elegí prudente la opción de la pax
+
+
+Mistribillo 1:
+        Re7M               Re7m  
+Y así drogado, calentito, transportado, aprecié a mi lado
+   Do#m7                     Sim7                  
+la vida sencilla de las margaritas, del descampado aledaño
+La7M                         Mim
+Y escuché, la suave canción de las plantas, 
+ La7                      
+que sólo necesitan del Sol y del agua
+Re7M                 Do#m7
+Metí de una vez los pies en el tiesto
+Sim7                                      Sib7M (arpegiado)
+Perdida mi esencia animal, quise ser vegetal,
+                    La7M
+Vegetal pa los restos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recitado:
+
+La7M    Mim    Mim7/Sol   -- Toda esta parte es siempre con esos tres acordes, esta parte con 
+                     -- ritmillo jazzero.
+Y te he comprado rosas de la china
+Y en un llavero de pokemon las llaves de mi corazón 
+...
+
+Doalaveras se mama    -- Mista parte con los acordes abierto con ritmo.
+
+...
+
+
+Me gusta ser una zorra, ... -- Mista parte con un poco de pizzicato ("palm mute").
